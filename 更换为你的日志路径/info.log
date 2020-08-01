@@ -1,0 +1,10 @@
+16:29:40.771 [restartedMain] INFO  com.example.DemoApplication - Starting DemoApplication on LAPTOP-CVH4K0IF with PID 18080 (started by wu in D:\WORK\SpringBoot学习记录\demo)
+16:29:40.832 [restartedMain] INFO  com.example.DemoApplication - The following profiles are active: dev
+16:29:46.446 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+16:29:46.448 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:29:46.449 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+16:29:46.837 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:29:51.741 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+16:29:51.908 [restartedMain] INFO  com.example.DemoApplication - Started DemoApplication in 13.109 seconds (JVM running for 20.793)
+16:29:53.004 [scheduling-1] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+16:29:53.008 [scheduling-1] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
